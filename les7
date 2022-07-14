@@ -1,21 +1,4 @@
-Skip to content
- 
-Search…
-All gists
-Back to GitHub
-@kolyanaiden 
-@gmakc-094423
-gmakc-094423/ДЗ к семинару № 7
-Created 2 months ago • Report abuse
-0
-0
-Code
-Revisions
-1
-<script src="https://gist.github.com/gmakc-094423/3523291ff7242da142de24aefff5aafc.js"></script>
-Домашнее задание к семинару № 7
-ДЗ к семинару № 7
-// Задача 47: Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
+/ Задача 47: Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
 // m = 3, n = 4.
 // 0,5 7 -2 -0,2
 // 1 -3,3 8 -9,9
@@ -182,22 +165,3 @@ for (int i = 0; i < m; i++)
       Console.WriteLine();
   }
 }
-@kolyanaiden
- 
-Leave a comment
-Файл не выбран
-Attach files by dragging & dropping, selecting or pasting them.
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
